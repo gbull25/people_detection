@@ -2,7 +2,11 @@
 
 A minimal implementation of OpenCV HOG detector and YOLOv8.
 
-Please see cv_task.ipynb.
+**Please see cv_task_without_video.ipynb.**
+
+cv_task_with_video.ipynb contains videos embedded in notebook, but file is too big to view it in github.
+
+You can find all videos and models used in relevant folders. 
 
 Original Video:
 
