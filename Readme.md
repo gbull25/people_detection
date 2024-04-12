@@ -8,6 +8,12 @@ cv_task_with_video.ipynb contains videos embedded in notebook, but file is too b
 
 You can find all videos and models used in relevant folders. 
 
+### If you want to run this locally:
+
+1. Clone this repo
+2. Install requirements: pip install -r requirements.txt
+3. Run any Jupyter notebook - they differ only in the presence of cells with embedded videos
+
 Original Video:
 
 https://github.com/gbull25/people_detection/assets/79256016/637dfc04-0726-4e62-ba56-5c72d40b8613
